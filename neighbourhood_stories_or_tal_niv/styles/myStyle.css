@@ -469,6 +469,9 @@ header {
     padding-top: 50px;
     right: 490px;
 }
+a#aboutp2{
+    color:white;
+}
 
 #coursText {
     position: relative;
