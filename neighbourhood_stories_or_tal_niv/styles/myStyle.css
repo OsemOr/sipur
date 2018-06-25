@@ -669,9 +669,9 @@ input[type ='submit'] {
 /* florentin-page */
 
 #passage1 {
-    top: -235px;
+    top: 2px;
     position: absolute;
-    height: 500px;
+    height: 200px;
     width: 162%;
     right: -340px;
     background-repeat: no-repeat;
